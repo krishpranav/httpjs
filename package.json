@@ -19,8 +19,7 @@
   },
   "license": "MIT",
   "author": "framework-js",
-  "contributors": [
-  ],
+  "contributors": [],
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
