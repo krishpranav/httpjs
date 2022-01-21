@@ -1,0 +1,26 @@
+{
+  "name": "httpjs",
+  "version": "1.0.0",
+  "description": "A simple http web framework built using js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framework-js/httpjs.git"
+  },
+  "keywords": [
+    "http",
+    "httpframework"
+  ],
+  "author": "NukeWilliams",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/framework-js/httpjs/issues"
+  },
+  "homepage": "https://github.com/framework-js/httpjs#readme",
+  "dependencies": {
+    "yarn": "^1.22.17"
+  }
+}
